@@ -1,0 +1,12 @@
+2010-08-25 Peter Pietzschmann  <peter@pietzschmann.de>
+
+	* ADD function to allow a specified be_user for remote password changing
+	* UPD TER to 1.0.1
+
+2010-08-20 Peter Pietzschmann  <peter@pietzschmann.de>
+
+	* ADD first upload in TER as 1.0.0
+
+2009-09-30 Peter Pietzschmann  <peter@pietzschmann.de>
+
+	* initial code generated with kickstarter

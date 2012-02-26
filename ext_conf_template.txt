@@ -1,0 +1,6 @@
+# cat=basic; type=string; label=Allowed remote Hosts: A comma separated mixed IP and Hostnames list.
+validHosts = 127.0.0.1,::1,localhost
+# cat=basic; type=boolean; label=Write DevLog: If set Log entries will get written to devLog (note that extension devlog must be installed)
+writeDevLog = 0
+# cat=basic; type=integer; label=BE-User: The uid of be_user to allow external password changing.
+uidBEuser = 0
